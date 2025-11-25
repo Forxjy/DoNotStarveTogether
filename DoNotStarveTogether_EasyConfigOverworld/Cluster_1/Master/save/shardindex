@@ -444,10 +444,6 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-3469544795"]={
-      configuration_options={ has_popup=true, invert_controller=false, lock_uncooked=false },
-      enabled=true 
-    },
     ["workshop-378160973"]={
       configuration_options={
         ENABLEPINGS=true,
