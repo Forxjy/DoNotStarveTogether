@@ -1,0 +1,53 @@
+[00:03:10]: [Join Announcement] 할丶상냥하고
+[00:03:58]: [Leave Announcement] 할丶상냥하고
+[00:04:29]: [Join Announcement] TYrhya
+[00:05:13]: [Join Announcement] 할丶상냥하고
+[00:27:02]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我拥有 95 个木炭。
+[00:32:17]: [Death Announcement] TYrhya 死于： 爆汁蓝莓植株。她变成了可怕的鬼魂！
+[00:32:35]: [Vote Announcement] rollback passed
+[00:32:37]: [Vote Announcement] rollback passed
+[00:34:12]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我拥有 104 个木炭。
+[00:37:38]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我附近有 11 水稻 ，这个距离我 1.5 格地皮 。
+[00:38:19]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我拥有 80 个木炭。
+[00:38:34]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我附近有 9 水稻 ，这个距离我 3.1 格地皮 。
+[00:38:51]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我附近有 9 蜘蛛腺 ，这个距离我 4.8 格地皮 。
+[01:15:17]: [Death Announcement] TYrhya 死于： 考拉象。她变成了可怕的鬼魂！
+[01:15:29]: [Vote Announcement] rollback passed
+[01:15:31]: [Vote Announcement] rollback passed
+[01:15:33]: [Death Announcement] 할丶상냥하고 死于： 考拉象。他变成了可怕的鬼魂！
+[01:23:56]: [Death Announcement] 할丶상냥하고 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[01:24:02]: [Vote Announcement] rollback passed
+[01:26:32]: [Death Announcement] TYrhya 死于： 发条骑士。她变成了可怕的鬼魂！
+[01:26:36]: [Vote Announcement] rollback passed
+[01:52:31]: [Death Announcement] 할丶상냥하고 死于： 恐惧之眼。他变成了可怕的鬼魂！
+[01:52:36]: [Vote Announcement] rollback passed
+[02:02:39]: [Death Announcement] 할丶상냥하고 死于： 恐惧之眼。他变成了可怕的鬼魂！
+[02:02:43]: [Vote Announcement] rollback passed
+[02:05:17]: [Death Announcement] TYrhya 死于： 鱼人。她变成了可怕的鬼魂！
+[02:05:20]: [Vote Announcement] rollback passed
+[02:05:24]: [Vote Announcement] rollback passed
+[02:05:24]: [Death Announcement] 할丶상냥하고 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[02:08:02]: [Death Announcement] TYrhya 死于： 地穴蜘蛛。她变成了可怕的鬼魂！
+[02:08:05]: [Vote Announcement] rollback passed
+[02:08:06]: [Death Announcement] 할丶상냥하고 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[02:09:58]: [Death Announcement] 할丶상냥하고 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[02:10:00]: [Vote Announcement] rollback passed
+[02:10:04]: [Vote Announcement] rollback passed
+[02:15:30]: [Death Announcement] 할丶상냥하고 死于： 恐惧之眼。他变成了可怕的鬼魂！
+[02:15:39]: [Vote Announcement] rollback passed
+[02:15:42]: [Vote Announcement] rollback passed
+[02:16:48]: [Leave Announcement] 할丶상냥하고
+[02:20:20]: [Death Announcement] TYrhya 死于： 地穴蜘蛛。她变成了可怕的鬼魂！
+[02:20:25]: [Vote Announcement] rollback passed
+[02:44:18]: [Join Announcement] 할丶상냥하고
+[03:07:37]: [Death Announcement] TYrhya 死于： 浣猫。她变成了可怕的鬼魂！
+[03:07:42]: [Vote Announcement] rollback passed
+[03:07:45]: [Vote Announcement] rollback passed
+[03:30:19]: [Death Announcement] TYrhya 死于： 触手。她变成了可怕的鬼魂！
+[03:32:08]: [Vote Announcement] rollback passed
+[03:38:45]: [Leave Announcement] TYrhya
+[03:40:03]: [Join Announcement] TYrhya
+[03:56:20]: [Death Announcement] TYrhya 死于： 猎犬。她变成了可怕的鬼魂！
+[03:56:28]: [Vote Announcement] rollback passed
+[04:00:26]: [Leave Announcement] TYrhya
+[04:10:23]: [Leave Announcement] 할丶상냥하고

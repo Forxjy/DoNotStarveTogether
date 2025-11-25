@@ -1,0 +1,37 @@
+[00:02:17]: [Join Announcement] TYrhya
+[00:18:16]: [Vote Announcement] rollback passed
+[00:26:07]: [Vote Announcement] rollback passed
+[00:26:51]: [Vote Announcement] rollback passed
+[00:33:11]: [Leave Announcement] TYrhya
+[00:38:48]: [Join Announcement] 할丶상냥하고
+[00:42:11]: [Leave Announcement] 할丶상냥하고
+[00:47:48]: [Join Announcement] TYrhya
+[01:52:09]: [Death Announcement] TYrhya 死于： 洞穴电鳗。她变成了可怕的鬼魂！
+[01:52:11]: [Vote Announcement] rollback passed
+[02:16:40]: [Death Announcement] TYrhya 死于： 蝎子。她变成了可怕的鬼魂！
+[02:16:44]: [Vote Announcement] rollback passed
+[03:15:46]: [Vote Announcement] rollback passed
+[04:10:18]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:10:20]: [Vote Announcement] rollback passed
+[04:12:50]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:12:53]: [Vote Announcement] rollback passed
+[04:18:57]: [Death Announcement] TYrhya 死于： 海草。她变成了可怕的鬼魂！
+[04:19:50]: [Resurrect Announcement] TYrhya 复活自： TYrhya的多年生植物祭坛.
+[04:20:20]: [Vote Announcement] rollback passed
+[04:21:47]: [Vote Announcement] rollback passed
+[04:21:48]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:23:30]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:23:32]: [Vote Announcement] rollback passed
+[04:25:12]: [Death Announcement] TYrhya 死于： 不稳定的玻璃块。她变成了可怕的鬼魂！
+[04:25:52]: [Vote Announcement] rollback passed
+[04:34:04]: [Vote Announcement] rollback passed
+[04:36:22]: [Death Announcement] TYrhya 死于： 不稳定的玻璃块。她变成了可怕的鬼魂！
+[04:36:31]: [Vote Announcement] rollback passed
+[04:37:24]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:37:27]: [Vote Announcement] rollback passed
+[04:40:15]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:40:18]: [Vote Announcement] rollback passed
+[04:42:28]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:42:46]: [Vote Announcement] rollback passed
+[04:46:43]: [Death Announcement] TYrhya 死于： 玻璃岩浆虫。她变成了可怕的鬼魂！
+[04:46:53]: [Vote Announcement] rollback passed

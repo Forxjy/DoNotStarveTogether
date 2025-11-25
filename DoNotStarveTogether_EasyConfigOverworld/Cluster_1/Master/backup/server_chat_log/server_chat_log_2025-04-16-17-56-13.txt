@@ -1,0 +1,18 @@
+[00:27:41]: [Join Announcement] TYrhya
+[00:28:00]: [Vote Announcement] rollback passed
+[00:35:37]: [Death Announcement] TYrhya 死于： 暗影威尔逊。她变成了可怕的鬼魂！
+[00:35:40]: [Vote Announcement] rollback passed
+[00:38:39]: [Vote Announcement] rollback passed
+[00:38:40]: [Death Announcement] TYrhya 死于： 蜘蛛女王。她变成了可怕的鬼魂！
+[00:46:15]: [Death Announcement] TYrhya 死于： 燃料搜寻器。她变成了可怕的鬼魂！
+[00:46:24]: [Vote Announcement] rollback passed
+[00:54:56]: [Death Announcement] TYrhya 死于： 暗影漩涡。她变成了可怕的鬼魂！
+[00:55:03]: [Resurrect Announcement] TYrhya 复活自： TYrhya的多年生植物祭坛.
+[00:55:14]: [Vote Announcement] rollback passed
+[01:40:19]: [Death Announcement] TYrhya 死于： 洞穴电鳗。她变成了可怕的鬼魂！
+[01:40:24]: [Vote Announcement] rollback passed
+[01:53:09]: [Death Announcement] TYrhya 死于： 梦魇尖喙。她变成了可怕的鬼魂！
+[01:53:16]: [Vote Announcement] rollback passed
+[02:10:22]: [Death Announcement] TYrhya 死于： 孢子猎犬。她变成了可怕的鬼魂！
+[02:10:34]: [Vote Announcement] rollback passed
+[02:36:39]: [Leave Announcement] TYrhya

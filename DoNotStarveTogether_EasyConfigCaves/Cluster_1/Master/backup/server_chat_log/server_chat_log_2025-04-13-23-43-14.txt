@@ -1,0 +1,130 @@
+[00:02:37]: [Join Announcement] 할丶상냥하고
+[00:02:38]: [Join Announcement] TYrhya
+[00:19:18]: [Death Announcement] 할丶상냥하고 死于： 小触手。他变成了可怕的鬼魂！
+[00:19:25]: [Vote Announcement] rollback passed
+[00:29:31]: [Death Announcement] TYrhya 死于： 巨型蝙蝠。她变成了可怕的鬼魂！
+[00:29:34]: [Vote Announcement] rollback passed
+[00:29:34]: [Vote Announcement] rollback passed
+[00:32:35]: [Leave Announcement] 할丶상냥하고
+[00:33:48]: [Join Announcement] 할丶상냥하고
+[00:43:51]: [Vote Announcement] rollback passed
+[00:49:43]: [System Message] -------------------------
+[00:49:43]: [System Message] Itemscore = 2
+[00:49:43]: [System Message] Foodscore = 292.5
+[00:49:43]: [System Message] Burrowbonus = 75
+[00:49:43]: [System Message] Ratscore = 240
+[00:49:43]: [System Message] True Ratscore = 240
+[00:49:43]: [System Message] Timer = 709s
+[00:49:43]: [System Message] -------------------------
+[00:53:29]: [System Message] -------------------------
+[00:53:29]: [System Message] Itemscore = 0
+[00:53:29]: [System Message] Foodscore = 265
+[00:53:29]: [System Message] Burrowbonus = 75
+[00:53:29]: [System Message] Ratscore = 240
+[00:53:29]: [System Message] True Ratscore = 240
+[00:53:29]: [System Message] Timer = -11s
+[00:53:29]: [System Message] -------------------------
+[01:01:39]: [Death Announcement] TYrhya 死于： 穴居猴。她变成了可怕的鬼魂！
+[01:01:44]: [Vote Announcement] rollback passed
+[01:01:48]: [Vote Announcement] rollback passed
+[01:03:25]: [Leave Announcement] 할丶상냥하고
+[01:04:36]: [Join Announcement] 할丶상냥하고
+[01:46:03]: [System Message] -------------------------
+[01:46:03]: [System Message] Itemscore = 0
+[01:46:03]: [System Message] Foodscore = 205
+[01:46:03]: [System Message] Burrowbonus = 150
+[01:46:03]: [System Message] Ratscore = 240
+[01:46:03]: [System Message] True Ratscore = 240
+[01:46:03]: [System Message] Timer = 6882s
+[01:46:03]: [System Message] -------------------------
+[02:12:15]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  猪皮包 在我附近，距离我 0.5 格地皮。
+[02:13:38]: [System Message] -------------------------
+[02:13:38]: [System Message] Itemscore = 30
+[02:13:38]: [System Message] Foodscore = 145
+[02:13:38]: [System Message] Burrowbonus = 150
+[02:13:38]: [System Message] Ratscore = 240
+[02:13:38]: [System Message] True Ratscore = 240
+[02:13:38]: [System Message] Timer = 3282s
+[02:13:38]: [System Message] -------------------------
+[02:13:57]: [System Message] -------------------------
+[02:13:57]: [System Message] Itemscore = 30
+[02:13:57]: [System Message] Foodscore = 145
+[02:13:57]: [System Message] Burrowbonus = 150
+[02:13:57]: [System Message] Ratscore = 240
+[02:13:57]: [System Message] True Ratscore = 240
+[02:13:57]: [System Message] Timer = 3042s
+[02:13:57]: [System Message] -------------------------
+[02:44:35]: [Death Announcement] 할丶상냥하고 死于： 冻伤。他变成了可怕的鬼魂！
+[02:44:36]: [Vote Announcement] rollback passed
+[02:50:37]: [Death Announcement] 할丶상냥하고 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[02:52:00]: [Leave Announcement] 할丶상냥하고
+[03:06:57]: [Join Announcement] 할丶상냥하고
+[03:12:35]: [Vote Announcement] rollback passed
+[03:37:48]: [System Message] -------------------------
+[03:37:48]: [System Message] Itemscore = 0
+[03:37:48]: [System Message] Foodscore = 210
+[03:37:48]: [System Message] Burrowbonus = 150
+[03:37:48]: [System Message] Ratscore = 240
+[03:37:48]: [System Message] True Ratscore = 240
+[03:37:48]: [System Message] Timer = 642s
+[03:37:48]: [System Message] -------------------------
+[03:43:27]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  寡妇之爪 在我附近，距离我 1.2 格地皮。
+[03:49:24]: [System Message] -------------------------
+[03:49:24]: [System Message] Itemscore = 4
+[03:49:24]: [System Message] Foodscore = 312.5
+[03:49:24]: [System Message] Burrowbonus = 180
+[03:49:24]: [System Message] Ratscore = 240
+[03:49:24]: [System Message] True Ratscore = 240
+[03:49:24]: [System Message] Timer = 11316s
+[03:49:24]: [System Message] -------------------------
+[03:54:33]: [Death Announcement] TYrhya 死于： 捕兽夹。她变成了可怕的鬼魂！
+[03:54:37]: [Vote Announcement] rollback passed
+[03:57:33]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  阿比盖尔 在我附近，距离我 0.7 格地皮。
+[03:57:35]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  象鼻 在我附近，距离我 0.7 格地皮。
+[04:19:25]: [Death Announcement] TYrhya 死于： 企鸥。她变成了可怕的鬼魂！
+[04:19:33]: [Vote Announcement] rollback passed
+[04:24:05]: [Vote Announcement] rollback passed
+[04:42:14]: [Vote Announcement] rollback passed
+[04:54:01]: [Vote Announcement] rollback passed
+[04:59:52]: [Death Announcement] 할丶상냥하고 死于： 独眼巨鹿。他变成了可怕的鬼魂！
+[04:59:57]: [Vote Announcement] rollback passed
+[05:08:00]: [Death Announcement] TYrhya 死于： 独眼巨鹿。她变成了可怕的鬼魂！
+[05:08:05]: [Death Announcement] 할丶상냥하고 死于： 蓝色猎犬。他变成了可怕的鬼魂！
+[05:08:05]: [Vote Announcement] rollback passed
+[05:08:08]: [Vote Announcement] rollback passed
+[05:12:39]: [Death Announcement] TYrhya 死于： 恶作剧。她变成了可怕的鬼魂！
+[05:12:45]: [Vote Announcement] rollback passed
+[05:58:26]: [Death Announcement] TYrhya 死于： 高脚鸟。她变成了可怕的鬼魂！
+[05:58:36]: [Vote Announcement] rollback passed
+[06:06:37]: [System Message] -------------------------
+[06:06:37]: [System Message] Itemscore = 0
+[06:06:37]: [System Message] Foodscore = 75
+[06:06:37]: [System Message] Burrowbonus = 150
+[06:06:37]: [System Message] Ratscore = 165
+[06:06:37]: [System Message] True Ratscore = 165
+[06:06:37]: [System Message] Timer = 551s
+[06:06:37]: [System Message] -------------------------
+[06:09:28]: [Death Announcement] 할丶상냥하고 死于： 老鼠。他变成了可怕的鬼魂！
+[06:09:36]: [Vote Announcement] rollback passed
+[06:16:24]: [Death Announcement] TYrhya 死于： 捕兽夹。她变成了可怕的鬼魂！
+[06:16:30]: [Vote Announcement] rollback passed
+[06:29:34]: [Death Announcement] TYrhya 死于： 龙蝇。她变成了可怕的鬼魂！
+[06:31:57]: [Resurrect Announcement] TYrhya 复活自： 할丶상냥하고.
+[06:37:06]: [System Message] -------------------------
+[06:37:06]: [System Message] Itemscore = 0
+[06:37:06]: [System Message] Foodscore = 175
+[06:37:06]: [System Message] Burrowbonus = 180
+[06:37:06]: [System Message] Ratscore = 240
+[06:37:06]: [System Message] True Ratscore = 240
+[06:37:06]: [System Message] Timer = 9665s
+[06:37:06]: [System Message] -------------------------
+[06:47:01]: [System Message] -------------------------
+[06:47:01]: [System Message] Itemscore = 0
+[06:47:01]: [System Message] Foodscore = 140
+[06:47:01]: [System Message] Burrowbonus = 180
+[06:47:01]: [System Message] Ratscore = 240
+[06:47:01]: [System Message] True Ratscore = 240
+[06:47:01]: [System Message] Timer = 8225s
+[06:47:01]: [System Message] -------------------------
+[06:50:47]: [Leave Announcement] 할丶상냥하고
+[06:50:59]: [Leave Announcement] TYrhya

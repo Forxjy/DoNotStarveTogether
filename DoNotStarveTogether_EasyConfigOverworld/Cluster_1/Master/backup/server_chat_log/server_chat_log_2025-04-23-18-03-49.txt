@@ -1,0 +1,43 @@
+[06:38:11]: [Join Announcement] TYrhya
+[08:20:58]: [Death Announcement] TYrhya 死于： 爆菇。她变成了可怕的鬼魂！
+[08:21:06]: [Vote Announcement] rollback passed
+[08:43:52]: [Join Announcement] 할丶상냥하고
+[09:02:03]: [Death Announcement] 할丶상냥하고 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[09:03:32]: [Resurrect Announcement] 할丶상냥하고 复活自： TYrhya.
+[09:21:29]: [Vote Announcement] rollback passed
+[09:21:51]: [Death Announcement] TYrhya 死于： 洞穴电鳗。她变成了可怕的鬼魂！
+[09:43:57]: [Death Announcement] TYrhya 死于： 超载奇械。她变成了可怕的鬼魂！
+[09:44:03]: [Vote Announcement] rollback passed
+[09:44:04]: [Vote Announcement] rollback passed
+[10:00:05]: [Vote Announcement] rollback passed
+[10:00:26]: [Death Announcement] 할丶상냥하고 死于： 恶作剧。他变成了可怕的鬼魂！
+[10:13:07]: [Death Announcement] TYrhya 死于： 洞穴蠕虫。她变成了可怕的鬼魂！
+[10:13:12]: [Vote Announcement] rollback passed
+[10:13:12]: [Vote Announcement] rollback passed
+[10:13:16]: [Death Announcement] 할丶상냥하고 死于： 洞穴电鳗。他变成了可怕的鬼魂！
+[10:42:05]: [Leave Announcement] 할丶상냥하고
+[11:30:39]: [Leave Announcement] TYrhya
+[11:32:29]: [Join Announcement] 할丶상냥하고
+[11:37:44]: [Vote Announcement] rollback passed
+[11:38:07]: [Death Announcement] 할丶상냥하고 死于： 梦魇尖喙。他变成了可怕的鬼魂！
+[12:08:45]: [Vote Announcement] rollback passed
+[12:12:45]: [Join Announcement] TYrhya
+[12:17:15]: [Death Announcement] TYrhya 死于： 暗影漩涡。她变成了可怕的鬼魂！
+[12:17:21]: [Vote Announcement] rollback passed
+[12:22:59]: [Vote Announcement] rollback passed
+[12:23:20]: [Death Announcement] 할丶상냥하고 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[12:51:50]: [Death Announcement] 할丶상냥하고 死于： 暴戾兔王。他变成了可怕的鬼魂！
+[12:51:55]: [Death Announcement] TYrhya 死于： 皇家兔子警卫。她变成了可怕的鬼魂！
+[12:51:57]: [Vote Announcement] rollback passed
+[12:59:29]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我附近有 3 成熟石果 ，这个距离我 0.3 格地皮 。
+[13:42:23]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我们拥有 26 个蜘蛛丝 在这个 箱子。
+[13:48:01]: [System Message] -------------------------
+[13:48:01]: [System Message] Itemscore = 0
+[13:48:01]: [System Message] Foodscore = 160
+[13:48:01]: [System Message] Burrowbonus = 165
+[13:48:01]: [System Message] Ratscore = 240
+[13:48:01]: [System Message] True Ratscore = 240
+[13:48:01]: [System Message] Timer = 8045s
+[13:48:01]: [System Message] -------------------------
+[13:52:56]: [Leave Announcement] 할丶상냥하고
+[14:17:03]: [Leave Announcement] TYrhya

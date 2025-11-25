@@ -1,0 +1,6 @@
+[00:01:51]: [Join Announcement] 할丶상냥하고
+[00:11:50]: [Leave Announcement] 할丶상냥하고
+[00:12:44]: [Join Announcement] 할丶상냥하고
+[00:16:16]: [Roll Announcement] (KU_Mj6gSjf3) 할丶상냥하고 30 (1-100)
+[00:16:20]: [Vote Announcement] rollback passed
+[01:22:42]: [Leave Announcement] 할丶상냥하고

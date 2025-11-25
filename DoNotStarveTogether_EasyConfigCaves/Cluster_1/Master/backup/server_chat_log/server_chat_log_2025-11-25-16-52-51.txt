@@ -1,0 +1,178 @@
+[00:03:29]: [Join Announcement] 할丶상냥하고
+[00:06:28]: [System Message] -------------------------
+[00:06:28]: [System Message] 物品分 = 0
+[00:06:28]: [System Message] 老鼠分 = 265
+[00:06:28]: [System Message] 食物分 = 175
+[00:06:28]: [System Message] 鼠巢分 = 150
+[00:06:28]: [System Message] 真实老鼠分 = 240
+[00:06:28]: [System Message] 鼠潮倒计时 = 3345s
+[00:06:28]: [System Message] -------------------------
+[00:06:57]: [Vote Announcement] rollback passed
+[00:10:37]: [System Message] -------------------------
+[00:10:37]: [System Message] 物品分 = 0
+[00:10:37]: [System Message] 老鼠分 = 277.5
+[00:10:37]: [System Message] 食物分 = 187.5
+[00:10:37]: [System Message] 鼠巢分 = 150
+[00:10:37]: [System Message] 真实老鼠分 = 240
+[00:10:37]: [System Message] 鼠潮倒计时 = 3345s
+[00:10:37]: [System Message] -------------------------
+[00:13:37]: [System Message] -------------------------
+[00:13:37]: [System Message] 物品分 = 0
+[00:13:37]: [System Message] 老鼠分 = 242.5
+[00:13:37]: [System Message] 食物分 = 152.5
+[00:13:37]: [System Message] 鼠巢分 = 150
+[00:13:37]: [System Message] 真实老鼠分 = 240
+[00:13:37]: [System Message] 鼠潮倒计时 = 3105s
+[00:13:37]: [System Message] -------------------------
+[00:16:37]: [System Message] -------------------------
+[00:16:37]: [System Message] 物品分 = 0
+[00:16:37]: [System Message] 老鼠分 = 285
+[00:16:37]: [System Message] 食物分 = 195
+[00:16:37]: [System Message] 鼠巢分 = 150
+[00:16:37]: [System Message] 真实老鼠分 = 240
+[00:16:37]: [System Message] 鼠潮倒计时 = 2865s
+[00:16:37]: [System Message] -------------------------
+[00:19:37]: [System Message] -------------------------
+[00:19:37]: [System Message] 物品分 = 0
+[00:19:37]: [System Message] 老鼠分 = 385
+[00:19:37]: [System Message] 食物分 = 295
+[00:19:37]: [System Message] 鼠巢分 = 150
+[00:19:37]: [System Message] 真实老鼠分 = 240
+[00:19:37]: [System Message] 鼠潮倒计时 = 2625s
+[00:19:37]: [System Message] -------------------------
+[00:22:38]: [System Message] -------------------------
+[00:22:38]: [System Message] 物品分 = 0
+[00:22:38]: [System Message] 老鼠分 = 300
+[00:22:38]: [System Message] 食物分 = 210
+[00:22:38]: [System Message] 鼠巢分 = 150
+[00:22:38]: [System Message] 真实老鼠分 = 240
+[00:22:38]: [System Message] 鼠潮倒计时 = 2385s
+[00:22:38]: [System Message] -------------------------
+[00:25:59]: [System Message] -------------------------
+[00:25:59]: [System Message] 物品分 = 0
+[00:25:59]: [System Message] 老鼠分 = 300
+[00:25:59]: [System Message] 食物分 = 210
+[00:25:59]: [System Message] 鼠巢分 = 150
+[00:25:59]: [System Message] 真实老鼠分 = 240
+[00:25:59]: [System Message] 鼠潮倒计时 = 2145s
+[00:25:59]: [System Message] -------------------------
+[00:26:44]: [Vote Announcement] rollback passed
+[00:30:36]: [System Message] -------------------------
+[00:30:36]: [System Message] 物品分 = 0
+[00:30:36]: [System Message] 老鼠分 = 290
+[00:30:36]: [System Message] 食物分 = 200
+[00:30:36]: [System Message] 鼠巢分 = 150
+[00:30:36]: [System Message] 真实老鼠分 = 240
+[00:30:36]: [System Message] 鼠潮倒计时 = 2385s
+[00:30:36]: [System Message] -------------------------
+[00:31:38]: [Vote Announcement] rollback passed
+[00:35:35]: [System Message] -------------------------
+[00:35:35]: [System Message] 物品分 = 0
+[00:35:35]: [System Message] 老鼠分 = 285
+[00:35:35]: [System Message] 食物分 = 195
+[00:35:35]: [System Message] 鼠巢分 = 150
+[00:35:35]: [System Message] 真实老鼠分 = 240
+[00:35:35]: [System Message] 鼠潮倒计时 = 2385s
+[00:35:35]: [System Message] -------------------------
+[00:38:35]: [System Message] -------------------------
+[00:38:35]: [System Message] 物品分 = 0
+[00:38:35]: [System Message] 老鼠分 = 285
+[00:38:35]: [System Message] 食物分 = 195
+[00:38:35]: [System Message] 鼠巢分 = 150
+[00:38:35]: [System Message] 真实老鼠分 = 240
+[00:38:35]: [System Message] 鼠潮倒计时 = 2145s
+[00:38:35]: [System Message] -------------------------
+[00:40:56]: [Vote Announcement] rollback passed
+[00:41:27]: [Vote Announcement] rollback passed
+[00:43:22]: [Leave Announcement] 할丶상냥하고
+[00:48:33]: [Join Announcement] TYrhya
+[00:51:50]: [System Message] -------------------------
+[00:51:50]: [System Message] 物品分 = 0
+[00:51:50]: [System Message] 老鼠分 = 290
+[00:51:50]: [System Message] 食物分 = 200
+[00:51:50]: [System Message] 鼠巢分 = 150
+[00:51:50]: [System Message] 真实老鼠分 = 240
+[00:51:50]: [System Message] 鼠潮倒计时 = 2385s
+[00:51:50]: [System Message] -------------------------
+[00:55:12]: [System Message] -------------------------
+[00:55:12]: [System Message] 物品分 = 0
+[00:55:12]: [System Message] 老鼠分 = 290
+[00:55:12]: [System Message] 食物分 = 200
+[00:55:12]: [System Message] 鼠巢分 = 150
+[00:55:12]: [System Message] 真实老鼠分 = 240
+[00:55:12]: [System Message] 鼠潮倒计时 = 2145s
+[00:55:12]: [System Message] -------------------------
+[00:58:46]: [System Message] -------------------------
+[00:58:46]: [System Message] 物品分 = 0
+[00:58:46]: [System Message] 老鼠分 = 290
+[00:58:46]: [System Message] 食物分 = 200
+[00:58:46]: [System Message] 鼠巢分 = 150
+[00:58:46]: [System Message] 真实老鼠分 = 240
+[00:58:46]: [System Message] 鼠潮倒计时 = 1905s
+[00:58:46]: [System Message] -------------------------
+[01:01:59]: [System Message] -------------------------
+[01:01:59]: [System Message] 物品分 = 0
+[01:01:59]: [System Message] 老鼠分 = 290
+[01:01:59]: [System Message] 食物分 = 200
+[01:01:59]: [System Message] 鼠巢分 = 150
+[01:01:59]: [System Message] 真实老鼠分 = 240
+[01:01:59]: [System Message] 鼠潮倒计时 = 1665s
+[01:01:59]: [System Message] -------------------------
+[01:05:53]: [System Message] -------------------------
+[01:05:53]: [System Message] 物品分 = 0
+[01:05:53]: [System Message] 老鼠分 = 290
+[01:05:53]: [System Message] 食物分 = 200
+[01:05:53]: [System Message] 鼠巢分 = 150
+[01:05:53]: [System Message] 真实老鼠分 = 240
+[01:05:53]: [System Message] 鼠潮倒计时 = 1425s
+[01:05:53]: [System Message] -------------------------
+[01:08:54]: [System Message] -------------------------
+[01:08:54]: [System Message] 物品分 = 0
+[01:08:54]: [System Message] 老鼠分 = 290
+[01:08:54]: [System Message] 食物分 = 200
+[01:08:54]: [System Message] 鼠巢分 = 150
+[01:08:54]: [System Message] 真实老鼠分 = 240
+[01:08:54]: [System Message] 鼠潮倒计时 = 1185s
+[01:08:54]: [System Message] -------------------------
+[01:11:54]: [System Message] -------------------------
+[01:11:54]: [System Message] 物品分 = 0
+[01:11:54]: [System Message] 老鼠分 = 385
+[01:11:54]: [System Message] 食物分 = 295
+[01:11:54]: [System Message] 鼠巢分 = 150
+[01:11:54]: [System Message] 真实老鼠分 = 240
+[01:11:54]: [System Message] 鼠潮倒计时 = 945s
+[01:11:54]: [System Message] -------------------------
+[01:11:58]: [Vote Announcement] rollback passed
+[01:14:52]: [System Message] -------------------------
+[01:14:52]: [System Message] 物品分 = 0
+[01:14:52]: [System Message] 老鼠分 = 290
+[01:14:52]: [System Message] 食物分 = 200
+[01:14:52]: [System Message] 鼠巢分 = 150
+[01:14:52]: [System Message] 真实老鼠分 = 240
+[01:14:52]: [System Message] 鼠潮倒计时 = 1185s
+[01:14:52]: [System Message] -------------------------
+[01:17:52]: [System Message] -------------------------
+[01:17:52]: [System Message] 物品分 = 0
+[01:17:52]: [System Message] 老鼠分 = 277.5
+[01:17:52]: [System Message] 食物分 = 187.5
+[01:17:52]: [System Message] 鼠巢分 = 150
+[01:17:52]: [System Message] 真实老鼠分 = 240
+[01:17:52]: [System Message] 鼠潮倒计时 = 945s
+[01:17:52]: [System Message] -------------------------
+[01:20:52]: [System Message] -------------------------
+[01:20:52]: [System Message] 物品分 = 0
+[01:20:52]: [System Message] 老鼠分 = 290
+[01:20:52]: [System Message] 食物分 = 200
+[01:20:52]: [System Message] 鼠巢分 = 150
+[01:20:52]: [System Message] 真实老鼠分 = 240
+[01:20:52]: [System Message] 鼠潮倒计时 = 705s
+[01:20:52]: [System Message] -------------------------
+[01:23:53]: [System Message] -------------------------
+[01:23:53]: [System Message] 物品分 = 0
+[01:23:53]: [System Message] 老鼠分 = 267.5
+[01:23:53]: [System Message] 食物分 = 177.5
+[01:23:53]: [System Message] 鼠巢分 = 150
+[01:23:53]: [System Message] 真实老鼠分 = 240
+[01:23:53]: [System Message] 鼠潮倒计时 = 465s
+[01:23:53]: [System Message] -------------------------
+[02:18:34]: [Leave Announcement] TYrhya

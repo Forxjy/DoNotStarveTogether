@@ -1,0 +1,123 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 22%
+	Available Physical Memory: 50986m/65458m
+	Available Page File: 48183m/65458m
+	Available Virtual Memory: 4006m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 13m
+	Working Set Size: 13m
+	Quota Peak Page Pool Usage: 164k
+	Quota Page Pool Usage: 163k
+	Quota Peak Non Paged Pool Usage:17k
+	Quota Non Paged Pool Usage: 15k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 665003
+[00:00:00]: Current time: Wed Apr 23 19:18:44 2025
+
+[00:00:00]: Don't Starve Together: 665003 WIN32
+[00:00:00]: Build Date: 10186
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -conf_dir DoNotStarveTogether_EasyConfigOverworld -console 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (34920)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:0.47
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application F:\SteamLibrary\steamapps\common\server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (36440)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/adminlist.txt (Success)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 专业版
+    version                   10.0.26100
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  8
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD Ryzen 7 5800X3D 8-Core Processor           
+    manufacturer              AuthenticAMD
+    clockSpeed                3401
+  RAM                       
+    megsOfRam                 65536
+  GPU                       
+    name                      NVIDIA GeForce GTX 1660 Ti
+    driverDate                20240814000000.000000-000
+    megsOfRam                 4095
+    refreshRate               144
+    videoModeDescription      3840 x 2160 x 4294967296 种颜色
+    driverVersion             32.0.15.6094
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:03]:   taskgrouplist:	default	联机版	
+[00:00:03]:   taskgrouplist:	classic	经典	
+[00:00:03]:   taskgrouplist:	cave_default	地下	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: [Workshop] Item query page 0, size: 1, total size: 1
+[00:00:05]: [Workshop] Item query queued IDs: 3422163939
+[00:00:05]: [Workshop] Item query sent
+[00:00:05]: [Workshop] ItemQuery got this many results: 1, matching: 1
+[00:00:05]: [Workshop] ModQuery got 1 results
+[00:00:05]: [Workshop] ModQuery queued to download IDs: 3422163939
+[00:00:05]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:05]: [Workshop] ItemQuery downloading 1 pending mods marked to download
+[00:00:05]: [Workshop] DownloadPublishedFile [0] 3422163939
+[00:00:07]: [Workshop] OnDownloadPublishedFile [33] 3422163939
+[00:00:07]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:07]: [Workshop] DownloadPublishedFile [8] 3422163939
+[00:00:08]: [Workshop] OnDownloadPublishedFile [33] 3422163939
+[00:00:08]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:08]: [Workshop] DownloadPublishedFile [8] 3422163939
+[00:00:08]: [Workshop] OnDownloadPublishedFile [33] 3422163939
+[00:00:08]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:08]: [Workshop] DownloadPublishedFile [8] 3422163939
+[00:00:08]: [Workshop] OnDownloadPublishedFile [33] 3422163939
+[00:00:08]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:08]: [Workshop] DownloadPublishedFile [8] 3422163939

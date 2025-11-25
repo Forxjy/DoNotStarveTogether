@@ -1,0 +1,63 @@
+[00:06:15]: [Join Announcement] TYrhya
+[00:13:09]: [Vote Announcement] rollback passed
+[00:29:48]: [Death Announcement] TYrhya 死于： 红色猎犬。她变成了可怕的鬼魂！
+[00:32:29]: [Vote Announcement] rollback passed
+[00:42:44]: [System Message] -------------------------
+[00:42:44]: [System Message] Itemscore = 0
+[00:42:44]: [System Message] Foodscore = 125
+[00:42:44]: [System Message] Burrowbonus = 180
+[00:42:44]: [System Message] Ratscore = 240
+[00:42:44]: [System Message] True Ratscore = 240
+[00:42:44]: [System Message] Timer = 9154s
+[00:42:44]: [System Message] -------------------------
+[02:18:29]: [Death Announcement] TYrhya 死于： 火。她变成了可怕的鬼魂！
+[02:18:35]: [Vote Announcement] rollback passed
+[02:33:57]: [System Message] -------------------------
+[02:33:57]: [System Message] Itemscore = 0
+[02:33:57]: [System Message] Foodscore = 200
+[02:33:57]: [System Message] Burrowbonus = 180
+[02:33:57]: [System Message] Ratscore = 240
+[02:33:57]: [System Message] True Ratscore = 240
+[02:33:57]: [System Message] Timer = 1714s
+[02:33:57]: [System Message] -------------------------
+[02:47:08]: [Death Announcement] TYrhya 死于： 捕兽夹。她变成了可怕的鬼魂！
+[02:47:13]: [Vote Announcement] rollback passed
+[02:54:22]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[02:54:32]: [Vote Announcement] rollback passed
+[03:01:21]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[03:01:30]: [Vote Announcement] rollback passed
+[03:06:37]: [Vote Announcement] rollback passed
+[03:09:45]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[03:09:48]: [Vote Announcement] rollback passed
+[03:14:25]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[03:14:41]: [Leave Announcement] TYrhya
+[03:15:13]: [Join Announcement] TYrhya
+[03:30:33]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[03:30:37]: [Vote Announcement] rollback passed
+[03:58:27]: [System Message] -------------------------
+[03:58:27]: [System Message] Itemscore = 0
+[03:58:27]: [System Message] Foodscore = 160
+[03:58:27]: [System Message] Burrowbonus = 165
+[03:58:27]: [System Message] Ratscore = 240
+[03:58:27]: [System Message] True Ratscore = 240
+[03:58:27]: [System Message] Timer = 7481s
+[03:58:27]: [System Message] -------------------------
+[04:27:16]: [Vote Announcement] rollback passed
+[04:42:14]: [Vote Announcement] rollback passed
+[04:50:27]: [Vote Announcement] rollback passed
+[04:57:06]: [Vote Announcement] rollback passed
+[05:33:16]: [Vote Announcement] rollback passed
+[06:02:23]: [Death Announcement] TYrhya 死于： 燧石。她变成了可怕的鬼魂！
+[06:02:30]: [Vote Announcement] rollback passed
+[06:17:31]: [Death Announcement] TYrhya 死于： 超载奇械。她变成了可怕的鬼魂！
+[06:17:41]: [Vote Announcement] rollback passed
+[07:18:09]: [Leave Announcement] TYrhya
+[07:34:32]: [Join Announcement] TYrhya
+[07:49:03]: [Vote Announcement] rollback passed
+[08:00:22]: [Vote Announcement] rollback passed
+[08:02:54]: [Vote Announcement] rollback passed
+[08:02:55]: [Death Announcement] TYrhya 死于： 恶作剧。她变成了可怕的鬼魂！
+[08:06:22]: [Vote Announcement] rollback passed
+[08:09:43]: [Vote Announcement] rollback passed
+[08:09:44]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[08:30:19]: [Leave Announcement] TYrhya

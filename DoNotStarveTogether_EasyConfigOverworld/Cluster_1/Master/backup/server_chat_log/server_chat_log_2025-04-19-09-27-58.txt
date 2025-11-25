@@ -1,0 +1,24 @@
+[00:05:51]: [Join Announcement] TYrhya
+[00:06:47]: [Death Announcement] TYrhya 死于： 皮弗娄牛。她变成了可怕的鬼魂！
+[00:06:53]: [Vote Announcement] rollback passed
+[00:57:21]: [Vote Announcement] rollback passed
+[01:23:36]: [Leave Announcement] TYrhya
+[01:25:01]: [Join Announcement] TYrhya
+[01:28:31]: [Vote Announcement] rollback passed
+[01:33:00]: [Vote Announcement] rollback passed
+[01:33:01]: [Death Announcement] TYrhya 死于： 恶作剧。她变成了可怕的鬼魂！
+[01:33:54]: [Vote Announcement] rollback passed
+[01:44:24]: [Vote Announcement] rollback passed
+[02:00:15]: [Vote Announcement] rollback passed
+[02:00:15]: [Death Announcement] TYrhya 死于： 熊獾。她变成了可怕的鬼魂！
+[02:06:00]: [Vote Announcement] rollback passed
+[02:28:27]: [Vote Announcement] rollback passed
+[03:04:22]: [Vote Announcement] rollback passed
+[03:05:20]: [Vote Announcement] rollback passed
+[03:26:44]: [Leave Announcement] TYrhya
+[03:33:40]: [Join Announcement] TYrhya
+[03:37:18]: [Vote Announcement] rollback passed
+[03:37:19]: [Death Announcement] TYrhya 死于： 恶作剧。她变成了可怕的鬼魂！
+[03:53:46]: [Death Announcement] TYrhya 死于： 孢子云。她变成了可怕的鬼魂！
+[03:53:53]: [Vote Announcement] rollback passed
+[03:54:51]: [Leave Announcement] TYrhya

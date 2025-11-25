@@ -1,0 +1,14 @@
+[00:08:17]: [Join Announcement] TYrhya
+[00:14:52]: [Death Announcement] TYrhya 死于： 黑暗。她变成了可怕的鬼魂！
+[00:14:57]: [Vote Announcement] rollback passed
+[01:47:20]: [Death Announcement] TYrhya 死于： 骷髅士兵。她变成了可怕的鬼魂！
+[01:47:26]: [Vote Announcement] rollback passed
+[02:16:48]: [Death Announcement] TYrhya 死于： 暗影威尔逊。她变成了可怕的鬼魂！
+[02:17:20]: [Vote Announcement] rollback passed
+[02:29:30]: [Vote Announcement] rollback passed
+[02:29:35]: [Death Announcement] TYrhya 死于： 皮弗娄牛。她变成了可怕的鬼魂！
+[02:33:04]: [Death Announcement] TYrhya 死于： 采摘的红蘑菇。她变成了可怕的鬼魂！
+[02:33:08]: [Vote Announcement] rollback passed
+[02:39:56]: [Vote Announcement] rollback passed
+[02:42:12]: [Death Announcement] TYrhya 死于： 皮弗娄牛。她变成了可怕的鬼魂！
+[02:42:14]: [Vote Announcement] rollback passed

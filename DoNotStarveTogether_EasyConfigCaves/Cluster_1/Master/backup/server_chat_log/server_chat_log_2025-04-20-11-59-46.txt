@@ -1,0 +1,29 @@
+[00:03:04]: [Join Announcement] TYrhya
+[00:26:01]: [Vote Announcement] rollback passed
+[00:29:40]: [System Message] -------------------------
+[00:29:40]: [System Message] Itemscore = 38
+[00:29:40]: [System Message] Foodscore = 87.5
+[00:29:40]: [System Message] Burrowbonus = 150
+[00:29:40]: [System Message] Ratscore = 215.5
+[00:29:40]: [System Message] True Ratscore = 215.5
+[00:29:40]: [System Message] Timer = -24.5s
+[00:29:40]: [System Message] -------------------------
+[01:48:45]: [Join Announcement] 할丶상냥하고
+[02:16:24]: [System Message] -------------------------
+[02:16:24]: [System Message] Itemscore = 2
+[02:16:24]: [System Message] Foodscore = 80
+[02:16:24]: [System Message] Burrowbonus = 165
+[02:16:24]: [System Message] Ratscore = 187
+[02:16:24]: [System Message] True Ratscore = 187
+[02:16:24]: [System Message] Timer = 10036.5s
+[02:16:24]: [System Message] -------------------------
+[02:20:02]: [Death Announcement] TYrhya 死于： 龙蝇。她变成了可怕的鬼魂！
+[02:20:10]: [Vote Announcement] rollback passed
+[02:35:07]: [Vote Announcement] rollback passed
+[02:41:05]: [Leave Announcement] TYrhya
+[02:43:55]: [Vote Announcement] rollback passed
+[02:53:00]: [Vote Announcement] rollback passed
+[03:09:19]: [Vote Announcement] rollback passed
+[03:11:59]: [Vote Announcement] rollback passed
+[03:16:52]: [Vote Announcement] rollback passed
+[03:39:29]: [Leave Announcement] 할丶상냥하고

@@ -1,0 +1,77 @@
+[00:03:34]: [Join Announcement] 할丶상냥하고
+[00:04:53]: [Join Announcement] TYrhya
+[00:33:17]: [Vote Announcement] rollback passed
+[00:50:11]: [Leave Announcement] 할丶상냥하고
+[00:52:05]: [Leave Announcement] TYrhya
+[01:26:26]: [Join Announcement] 할丶상냥하고
+[01:29:00]: [Death Announcement] 할丶상냥하고 死于： 青蛙。他变成了可怕的鬼魂！
+[01:29:03]: [Leave Announcement] 할丶상냥하고
+[01:34:39]: [Join Announcement] TYrhya
+[01:36:27]: [Join Announcement] 할丶상냥하고
+[01:37:12]: [Vote Announcement] rollback passed
+[02:10:37]: [Death Announcement] 할丶상냥하고 死于： 恐怖利爪。他变成了可怕的鬼魂！
+[02:10:41]: [Vote Announcement] rollback passed
+[02:10:41]: [Vote Announcement] rollback passed
+[02:14:12]: [Vote Announcement] rollback passed
+[02:16:08]: [Vote Announcement] rollback passed
+[02:52:28]: [Death Announcement] 할丶상냥하고 死于： 老鼠。他变成了可怕的鬼魂！
+[02:52:36]: [Vote Announcement] rollback passed
+[02:59:23]: [Death Announcement] 할丶상냥하고 死于： 时令龙蝇。他变成了可怕的鬼魂！
+[02:59:31]: [Vote Announcement] rollback passed
+[03:05:19]: [Death Announcement] 할丶상냥하고 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[03:05:35]: [Vote Announcement] rollback passed
+[03:10:40]: [Skin Announcement] 할丶상냥하고 feet_ankleboot_black_jet
+[03:10:51]: [Vote Announcement] rollback passed
+[03:27:17]: [Death Announcement] TYrhya 死于： 恶作剧。她变成了可怕的鬼魂！
+[03:27:23]: [Vote Announcement] rollback passed
+[03:43:13]: [Join Announcement] 할丶상냥하고
+[03:48:42]: [Leave Announcement] TYrhya
+[04:04:37]: [Vote Announcement] rollback passed
+[04:07:17]: [Vote Announcement] rollback passed
+[04:09:06]: [Join Announcement] TYrhya
+[04:09:45]: [Vote Announcement] rollback passed
+[04:22:50]: [Death Announcement] 할丶상냥하고 死于： 海草。他变成了可怕的鬼魂！
+[04:22:54]: [Vote Announcement] rollback passed
+[05:25:08]: [Death Announcement] 할丶상냥하고 死于： 恐惧之眼。他变成了可怕的鬼魂！
+[05:25:08]: [Vote Announcement] rollback passed
+[05:45:09]: [Leave Announcement] TYrhya
+[05:45:17]: [Leave Announcement] 할丶상냥하고
+[06:49:18]: [Join Announcement] 할丶상냥하고
+[06:50:08]: [Join Announcement] TYrhya
+[06:53:07]: [System Message] -------------------------
+[06:53:07]: [System Message] Itemscore = 0
+[06:53:07]: [System Message] Foodscore = 440
+[06:53:07]: [System Message] Burrowbonus = 30
+[06:53:07]: [System Message] Ratscore = 240
+[06:53:07]: [System Message] True Ratscore = 240
+[06:53:07]: [System Message] Timer = 11029s
+[06:53:07]: [System Message] -------------------------
+[07:11:45]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  黄金铲子 在我附近，距离我 0.5 格地皮。
+[07:13:04]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我附近有 3 木炭 ，这个距离我 1.2 格地皮 。
+[07:13:38]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  我附近有 11 公牛海带 ，这个距离我 0.2 格地皮 。
+[07:16:37]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  木甲 在我附近，距离我 0.5 格地皮。
+[07:17:00]: [Say] (KU_Mj6gSjf3) 할丶상냥하고:  木甲 在我附近，距离我 1.2 格地皮。
+[07:26:04]: [System Message] -------------------------
+[07:26:04]: [System Message] Itemscore = 0
+[07:26:04]: [System Message] Foodscore = 245
+[07:26:04]: [System Message] Burrowbonus = 60
+[07:26:04]: [System Message] Ratscore = 240
+[07:26:04]: [System Message] True Ratscore = 240
+[07:26:04]: [System Message] Timer = 6949s
+[07:26:04]: [System Message] -------------------------
+[07:41:56]: [System Message] -------------------------
+[07:41:56]: [System Message] Itemscore = 0
+[07:41:56]: [System Message] Foodscore = 270
+[07:41:56]: [System Message] Burrowbonus = 60
+[07:41:56]: [System Message] Ratscore = 240
+[07:41:56]: [System Message] True Ratscore = 240
+[07:41:56]: [System Message] Timer = 4789s
+[07:41:56]: [System Message] -------------------------
+[07:42:14]: [System Message] -------------------------
+[07:42:14]: [System Message] Itemscore = 0
+[07:42:14]: [System Message] Foodscore = 400
+[07:42:14]: [System Message] Burrowbonus = 60
+[07:42:14]: [System Message] Ratscore = 240
+[07:42:14]: [System Message] True Ratscore = 240
+[07:42:14]: [System Message] Timer = 4549s
+[07:42:14]: [System Message] -------------------------

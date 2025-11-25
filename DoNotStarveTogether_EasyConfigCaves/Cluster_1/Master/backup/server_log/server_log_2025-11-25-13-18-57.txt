@@ -1,0 +1,618 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 54%
+	Available Physical Memory: 29717m/65458m
+	Available Page File: 24821m/97017m
+	Available Virtual Memory: 4006m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 15m
+	Working Set Size: 15m
+	Quota Peak Page Pool Usage: 164k
+	Quota Page Pool Usage: 164k
+	Quota Peak Non Paged Pool Usage:17k
+	Quota Non Paged Pool Usage: 15k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether_EasyConfigCaves/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 699627
+[00:00:00]: Current time: Tue Nov 25 13:11:07 2025
+
+[00:00:00]: Don't Starve Together: 699627 WIN32
+[00:00:00]: Build Date: 10794
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -conf_dir DoNotStarveTogether_EasyConfigCaves -console 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (195212)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:0.48
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application F:\SteamLibrary\steamapps\common\temp\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether_EasyConfigCaves/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (159684)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether_EasyConfigCaves/Cluster_1/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether_EasyConfigCaves/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether_EasyConfigCaves/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether_EasyConfigCaves/Cluster_1/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 专业版
+    version                   10.0.26100
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  8
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD Ryzen 7 5800X3D 8-Core Processor           
+    manufacturer              AuthenticAMD
+    clockSpeed                3401
+  RAM                       
+    megsOfRam                 65536
+  GPU                       
+    name                      NVIDIA GeForce GTX 1660 Ti
+    driverDate                20240814000000.000000-000
+    megsOfRam                 4095
+    refreshRate               59
+    videoModeDescription      2560 x 1440 x 4294967296 种颜色
+    driverVersion             32.0.15.6094
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x32
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:06]: [Workshop] Item query page 0, size: 11, total size: 11
+[00:00:06]: [Workshop] Item query queued IDs: 1207269058 2039181790 2189004162 2751937554 2798599672 2973455580 3359995816 3422163939 3444169023 3474361249 378160973
+[00:00:06]: [Workshop] Item query sent
+[00:00:07]: [Workshop] ItemQuery got this many results: 11, matching: 11
+[00:00:07]: [Workshop] ModQuery got 11 results
+[00:00:07]: [Workshop] ModQuery queued to download IDs: 1207269058 2039181790 2798599672 2973455580 378160973
+[00:00:07]: [Workshop] ModQuery already have IDs: {5.2.0,2189004162} {2025.10.25,2751937554} {2.0.2,3359995816} {1.0.0,3422163939} {v1.4.0,3444169023} {0.3.16,3474361249}
+[00:00:07]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:07]: [Workshop] ItemQuery downloading 5 pending mods marked to download
+[00:00:07]: [Workshop] DownloadPublishedFile [8] 1207269058
+[00:00:07]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:07]: [Workshop] DownloadPublishedFile [8] 2798599672
+[00:00:07]: [Workshop] DownloadPublishedFile [8] 2973455580
+[00:00:07]: [Workshop] DownloadPublishedFile [8] 378160973
+[00:00:12]: [Workshop] OnDownloadPublishedFile [1] 1207269058
+[00:00:13]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:13]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:13]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:15]: [Workshop] OnDownloadPublishedFile [1] 2798599672
+[00:00:18]: [Workshop] OnDownloadPublishedFile [1] 2973455580
+[00:00:26]: [Workshop] OnDownloadPublishedFile [1] 378160973
+[00:00:27]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:27]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:27]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:27]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:27]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:27]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:27]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:27]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:27]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:28]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:28]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:28]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:28]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:28]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:28]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:29]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:29]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:29]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:29]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:29]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:29]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:30]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:30]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:30]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:30]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:30]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:30]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:30]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:30]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:30]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:31]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:31]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:31]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:31]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:31]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:31]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:32]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:32]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:32]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:32]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:32]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:32]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:33]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:33]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:33]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:33]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:33]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:33]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:34]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:34]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:34]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:34]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:34]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:34]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:34]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:34]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:34]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:35]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:35]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:35]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:35]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:35]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:35]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:36]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:36]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:36]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:37]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:37]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:37]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:37]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:37]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:37]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:37]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:37]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:37]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:38]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:38]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:38]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:38]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:38]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:39]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:39]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:39]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:39]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:39]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:39]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:39]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:40]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:40]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:40]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:40]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:40]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:40]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:41]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:41]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:41]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:41]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:41]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:41]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:42]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:42]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:42]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:42]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:42]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:42]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:43]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:43]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:43]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:43]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:43]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:43]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:43]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:43]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:43]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:44]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:44]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:44]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:44]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:44]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:44]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:44]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:44]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:44]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:45]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:45]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:45]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:45]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:45]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:45]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:00:45]: [Workshop] OnDownloadPublishedFile [33] 2039181790
+[00:00:45]: [Workshop] ODPF failed to get a lock, retrying
+[00:00:45]: [Workshop] DownloadPublishedFile [8] 2039181790
+[00:01:27]: DownloadServerMods timed out with no response from Workshop...
+[00:01:27]: SUCCESS: Loaded modoverrides.lua	
+[00:01:27]: modoverrides.lua enabling workshop-2751937554	
+[00:01:27]: modoverrides.lua enabling workshop-378160973	
+[00:01:27]: modoverrides.lua enabling workshop-1207269058	
+[00:01:27]: modoverrides.lua enabling workshop-2189004162	
+[00:01:27]: modoverrides.lua enabling workshop-3422163939	
+[00:01:27]: modoverrides.lua enabling workshop-3359995816	
+[00:01:27]: modoverrides.lua enabling workshop-2973455580	
+[00:01:27]: modoverrides.lua enabling workshop-2798599672	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2751937554	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2189004162	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2798599672	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3422163939	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3359995816	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2973455580	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-2751937554_CLIENT	
+[00:01:27]: Loading mod: workshop-2751937554 (󰀕 UM永不妥协//汉化) Version:2025.10.25	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:01:27]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:01:27]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-2189004162_CLIENT	
+[00:01:27]: Loading mod: workshop-2189004162 (Insight) Version:5.2.0	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-2798599672_CLIENT	
+[00:01:27]: Loading mod: workshop-2798599672 (六格装备栏（适配mod版）) Version:4.6.9.f	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-3422163939_CLIENT	
+[00:01:27]: Loading mod: workshop-3422163939 (蜘蛛猫猫(服务器端)) Version:1.0.0	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-3359995816_CLIENT	
+[00:01:27]: Loading mod: workshop-3359995816 (暖心相拥) Version:2.0.2	
+[00:01:27]: Could not load mod_config_data/modconfiguration_workshop-2973455580_CLIENT	
+[00:01:27]: Loading mod: workshop-2973455580 (快捷收集整理) Version:1.0.62	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-2751937554	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:01:27]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:01:27]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:01:27]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:01:27]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:01:27]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:01:27]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:01:27]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-2189004162	
+[00:01:27]: Overriding mod workshop-2189004162's option refresh_delay with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option soil_nutrients with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option battlesong_range with value both	
+[00:01:27]: Overriding mod workshop-2189004162's option danger_announcements with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option food_effects with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option klaus_sack_info with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_fertilizer with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option fuel_verbosity with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_compostvalue with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option 指示器 with value 0	
+[00:01:27]: Overriding mod workshop-2189004162's option tumbleweed_info with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option time_style with value realtime_short	
+[00:01:27]: Overriding mod workshop-2189004162's option orchestrina_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option fuel_highlighting_color with value RED	
+[00:01:27]: Overriding mod workshop-2189004162's option display_gyminfo with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_yotb_appraisal with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_shared_stats with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_sanity_interactions with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_pickable with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_pollination with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option experimental_highlighting with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_mob_attack_damage with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option appeasement_value with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option boss_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_worldmigrator with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_attack_range with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option 食物相关 with value 0	
+[00:01:27]: Overriding mod workshop-2189004162's option 调试 with value 0	
+[00:01:27]: Overriding mod workshop-2189004162's option DEBUG_ENABLED with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option miniboss_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_sanity with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option itemtile_display with value percentages	
+[00:01:27]: Overriding mod workshop-2189004162's option 杂项 with value 0	
+[00:01:27]: Overriding mod workshop-2189004162's option display_weighable with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_rechargeable with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option herd_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option domestication_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option wx78_scanner_info with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option crash_reporter with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option wortox_soul_range with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option weather_detail with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option inventorybar_insight_font_size with value 25	
+[00:01:27]: Overriding mod workshop-2189004162's option weapon_damage with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option 信息控制 with value 0	
+[00:01:27]: Overriding mod workshop-2189004162's option follower_info with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option info_style with value text	
+[00:01:27]: Overriding mod workshop-2189004162's option display_crafting_lookup_button with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_rabbitking_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option food_memory with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option highlighting_color with value GREEN	
+[00:01:27]: Overriding mod workshop-2189004162's option highlighting_darkness with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option insight_font with value UIFONT	
+[00:01:27]: Overriding mod workshop-2189004162's option hoverer_insight_font_size with value 30	
+[00:01:27]: Overriding mod workshop-2189004162's option soil_moisture with value 2	
+[00:01:27]: Overriding mod workshop-2189004162's option display_spawner_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option sinkhole_marks with value 2	
+[00:01:27]: Overriding mod workshop-2189004162's option DEBUG_SHOW_NOTIMPLEMENTED with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option blink_range with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option display_finiteuses with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option repair_values with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option DEBUG_SHOW_DISABLED with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option display_simplefishing with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option armor with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_food with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option language with value automatic	
+[00:01:27]: Overriding mod workshop-2189004162's option pipspook_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option notable_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option nightmareclock_display with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option suspicious_marble_indicator with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option display_shadowthrall_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option lightningrod_range with value 1	
+[00:01:27]: Overriding mod workshop-2189004162's option klaus_sack_markers with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_world_events with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option growth_verbosity with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option 格式 with value 0	
+[00:01:27]: Overriding mod workshop-2189004162's option display_yotb_winners with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_perishable with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option info_preload with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_oceanfishing with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option highlighting with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_health with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_itemmimic_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option hunt_indicator with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_plant_stressors with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_insight_menu_button with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_batwave_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option DEBUG_SHOW_PREFAB with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option naughtiness_verbosity with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option food_style with value long	
+[00:01:27]: Overriding mod workshop-2189004162's option display_harvestable with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option soil_nutrients_needs_hat with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option fuel_highlighting with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option stewer_chef with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option text_coloring with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option hover_range_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option death_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option attack_range_type with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option food_units with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option food_order with value interface	
+[00:01:27]: Overriding mod workshop-2189004162's option hoverer_line_truncation with value None	
+[00:01:27]: Overriding mod workshop-2189004162's option followtext_insight_font_size with value 28	
+[00:01:27]: Overriding mod workshop-2189004162's option temperature_units with value game	
+[00:01:27]: Overriding mod workshop-2189004162's option bottle_indicator with value true	
+[00:01:27]: Overriding mod workshop-2189004162's option display_sanityaura with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option item_worth with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_hunger with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_tackle_information with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_upgradeable with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_weather with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_unwrappable with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_timers with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option display_shelter_info with value undefined	
+[00:01:27]: Overriding mod workshop-2189004162's option alt_only_information with value false	
+[00:01:27]: Overriding mod workshop-2189004162's option display_cawnival with value undefined	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-3422163939	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-3359995816	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-2973455580	
+[00:01:27]: Overriding mod workshop-2973455580's option Language In Game with value -1	
+[00:01:27]: Overriding mod workshop-2973455580's option replica patch with value true	
+[00:01:27]: Overriding mod workshop-2973455580's option Items collect with value -3	
+[00:01:27]: Overriding mod workshop-2973455580's option Container Sort with value -3	
+[00:01:27]: applying configuration_options from modoverrides.lua to mod workshop-2798599672	
+[00:01:27]: Overriding mod workshop-2798599672's option slot_armor with value extrabody1	
+[00:01:27]: Overriding mod workshop-2798599672's option config_render with value true	
+[00:01:27]: Overriding mod workshop-2798599672's option slot_clothing with value extrabody2	
+[00:01:27]: Overriding mod workshop-2798599672's option slot_amulet with value extrabody3	
+[00:01:27]: Registering Mods:
+[00:01:27]:    Registering Mod workshop-3359995816
+[00:01:27]:    Registering Mod workshop-2798599672
+[00:01:27]:    Registering Mod workshop-3422163939
+[00:01:27]:    Registering Mod workshop-378160973
+[00:01:27]:    Registering Mod workshop-2189004162
+[00:01:27]:    Registering Mod workshop-2973455580
+[00:01:27]:    Registering Mod workshop-1207269058
+[00:01:27]:    Registering Mod workshop-2751937554
+[00:01:27]: Mods registered.
+[00:01:27]: Mod: workshop-3359995816 (暖心相拥)	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-3359995816 (暖心相拥)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-3359995816 (暖心相拥)	Loading modmain.lua	
+[00:01:27]: modimport: ../mods/workshop-3359995816/main/strings	
+[00:01:27]: Mod: workshop-2798599672 (六格装备栏（适配mod版）)	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-2798599672 (六格装备栏（适配mod版）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-2798599672 (六格装备栏（适配mod版）)	Loading modmain.lua	
+[00:01:27]: Mod: workshop-3422163939 (蜘蛛猫猫(服务器端))	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-3422163939 (蜘蛛猫猫(服务器端))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-3422163939 (蜘蛛猫猫(服务器端))	Loading modmain.lua	
+[00:01:27]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2751937554	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2189004162	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2798599672	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3422163939	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-3359995816	
+[00:01:27]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2973455580	
+[00:01:27]: Mod: workshop-2189004162 (Insight)	Loading modworldgenmain.lua	
+[00:01:27]: [workshop-2189004162 (Insight)]:	Looks like we're in the actual launch process.	
+[00:01:27]: [workshop-2189004162 (Insight)]:	Checking shardindex.	
+[00:01:27]: [workshop-2189004162 (Insight)]:			No issues found!	
+[00:01:27]: [workshop-2189004162 (Insight)]:		Attempting to validate modoverrides.lua	
+[00:01:27]: SUCCESS: Loaded modoverrides.lua	
+[00:01:27]: [workshop-2189004162 (Insight)]:		No issues found!	
+[00:01:27]: Mod: workshop-2189004162 (Insight)	Loading modmain.lua	
+[00:01:27]: [workshop-2189004162 (Insight)]:	Kramped OnServerLoad	
+[00:01:27]: [workshop-2189004162 (Insight)]:	Kramped initialized	
+[00:01:27]: [workshop-2189004162 (Insight)]:	Insight main initialized!	
+[00:01:27]: Mod: workshop-2973455580 (快捷收集整理)	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-2973455580 (快捷收集整理)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-2973455580 (快捷收集整理)	Loading modmain.lua	
+[00:01:27]: modimport: ../mods/workshop-2973455580/common.lua	
+[00:01:27]: modimport: ../mods/workshop-2973455580/patch.lua	
+[00:01:27]: modimport: ../mods/workshop-2973455580/temp.lua	
+[00:01:27]: modimport: ../mods/workshop-2973455580/containersort.lua	
+[00:01:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:01:27]: Mod: workshop-2751937554 (󰀕 UM永不妥协//汉化)	Loading modworldgenmain.lua	
+[00:01:27]: Mod: workshop-2751937554 (󰀕 UM永不妥协//汉化)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:27]: Mod: workshop-2751937554 (󰀕 UM永不妥协//汉化)	Loading modmain.lua	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_names	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_strings	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_recipes	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_tooltips	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/generic	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wendy	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/generic	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wortox	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wolfgang	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/willow	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/warly	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wanda	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/walter	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/waxwell	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/webber	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wickerbottom	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/winona	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/woodie	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wormwood	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wurt	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wx78	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/wathgrithr	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_descriptions/announcestrings	
+[00:01:27]: modimport: ../mods/workshop-2751937554/init/init_strings_other	
+[00:01:27]: MOD ERROR: workshop-2751937554 (󰀕 UM永不妥协//汉化): Mod: workshop-2751937554 (󰀕 UM永不妥协//汉化)	
+[00:01:27]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:27]: [string "../mods/workshop-2751937554/init/init_strin..."]:11: module 'um_preparedfoods' not found:
+	no field package.preload['um_preparedfoods']
+	no file '../mods/workshop-2751937554/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-1207269058/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2973455580/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2189004162/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-378160973/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-3422163939/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2798599672/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-3359995816/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file 'scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file 'scriptlibs/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2751937554\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-1207269058\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-2973455580\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-2189004162\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-378160973\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-3422163939\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-2798599672\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-3359995816\scripts\um_preparedfoods.lua'
+	no file 'scripts\um_preparedfoods.lua'
+	no file 'scriptlibs\um_preparedfoods.lua'
+LUA ERROR stack traceback:
+        =[C] in function 'require'
+        ../mods/workshop-2751937554/init/init_strings_other.lua(11,1) in function 'result'
+        scripts/mods.lua(349,1) in function 'modimport'
+        ../mods/workshop-2751937554/modmain.lua(31,1) in main chunk
+        =[C] in function 'xpcall'
+        scripts/util.lua(800,1) in function 'RunInEnvironment'
+        scripts/mods.lua(606,1) in function 'InitializeModMain'
+        scripts/mods.lua(580,1) in function 'LoadMods'
+        scripts/main.lua(391,1) in function 'ModSafeStartup'
+        scripts/main.lua(522,1) in function 'callback'
+        scripts/modindex.lua(103,1) in function 'BeginStartupSequence'
+        scripts/main.lua(521,1) in function 'callback'
+        scripts/modindex.lua(735,1)
+        =[C] in function 'GetPersistentString'
+        scripts/modindex.lua(709,1) in function 'Load'
+        scripts/main.lua(520,1) in main chunk
+[00:01:27]: [string "../mods/workshop-2751937554/init/init_strin..."]:11: module 'um_preparedfoods' not found:
+	no field package.preload['um_preparedfoods']
+	no file '../mods/workshop-2751937554/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-1207269058/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2973455580/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2189004162/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-378160973/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-3422163939/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2798599672/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-3359995816/scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file 'scripts/um_preparedfoods.lua' (checked with custom loader)
+	no file 'scriptlibs/um_preparedfoods.lua' (checked with custom loader)
+	no file '../mods/workshop-2751937554\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-1207269058\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-2973455580\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-2189004162\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-378160973\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-3422163939\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-2798599672\scripts\um_preparedfoods.lua'
+	no file '../mods/workshop-3359995816\scripts\um_preparedfoods.lua'
+	no file 'scripts\um_preparedfoods.lua'
+	no file 'scriptlibs\um_preparedfoods.lua'
+LUA ERROR stack traceback:
+        =[C] in function 'require'
+        ../mods/workshop-2751937554/init/init_strings_other.lua(11,1) in function 'result'
+        scripts/mods.lua(349,1) in function 'modimport'
+        ../mods/workshop-2751937554/modmain.lua(31,1) in main chunk
+        =[C] in function 'xpcall'
+        scripts/util.lua(800,1) in function 'RunInEnvironment'
+        scripts/mods.lua(606,1) in function 'InitializeModMain'
+        scripts/mods.lua(580,1) in function 'LoadMods'
+        scripts/main.lua(391,1) in function 'ModSafeStartup'
+        scripts/main.lua(522,1) in function 'callback'
+        scripts/modindex.lua(103,1) in function 'BeginStartupSequence'
+        scripts/main.lua(521,1) in function 'callback'
+        scripts/modindex.lua(735,1)
+        =[C] in function 'GetPersistentString'
+        scripts/modindex.lua(709,1) in function 'Load'
+        scripts/main.lua(520,1) in main chunk	
+[00:01:27]: [string "scripts/mainfunctions.lua"]:1626: variable 'SetGlobalErrorWidget' is not declared
+LUA ERROR stack traceback:
+        =[C] in function 'error'
+        scripts/strict.lua(23,1)
+        scripts/mainfunctions.lua(1626,1)
+        =[C] in function 'GetPersistentString'
+        scripts/quagmire_recipebook.lua(54,1) in function 'Load'
+        scripts/main.lua(410,1) in function 'ModSafeStartup'
+        scripts/main.lua(522,1) in function 'callback'
+        scripts/modindex.lua(103,1) in function 'BeginStartupSequence'
+        scripts/main.lua(521,1) in function 'callback'
+        scripts/modindex.lua(735,1)
+        =[C] in function 'GetPersistentString'
+        scripts/modindex.lua(709,1) in function 'Load'
+        scripts/main.lua(520,1) in main chunk
+[00:01:28]: DoLuaFile Error: (null)
+[00:01:28]: LuaError but no error string
+[00:01:28]: Error loading main.lua
+[00:01:28]: Failed mSimulation->Reset()
+[00:01:28]: Error during game initialization!
+[00:01:28]: Collecting garbage...
+[00:01:29]: lua_gc took 0.25 seconds
+[00:01:29]: ~ShardLuaProxy()
+[00:01:29]: ~cEventLeaderboardProxy()
+[00:01:29]: ~ItemServerLuaProxy()
+[00:01:29]: ~InventoryLuaProxy()
+[00:01:29]: ~NetworkLuaProxy()
+[00:01:29]: ~SimLuaProxy()
+[00:01:29]: Cancelling LuaQueryCallback handle [1]
+[00:01:29]: lua_close took 0.07 seconds
+[00:01:29]: CurlRequestManager::ClientThread::Main() complete
+[00:01:29]: HttpClient2 discarded 0 callbacks.
+[00:01:29]: Shutting down
