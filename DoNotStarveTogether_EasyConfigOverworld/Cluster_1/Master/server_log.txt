@@ -5963,3 +5963,140 @@ FIXME: Skill Tree for wolfgang is missing defaultfocus for one of the skills! Th
 [00:01:01]: Sim paused
 [00:01:01]: Server registered via geo DNS in ap-east-1
 [00:01:01]: [Shard] Secondary shard Caves(4058301059) connected: [LAN] 127.0.0.1
+[00:01:32]: [Shard] Secondary Caves(4058301059) ready!
+[00:01:32]: World 4058301059(Caves) is now connected	
+[00:01:32]: [SyncWorldSettings] Sending master world option ghostsanitydrain = always to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option resettime = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option portalresurection = none to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:01:32]: Validating portal[1] <-> 4058301059[1] (disabled)	
+[00:01:32]: Validating portal[3] <-> 4058301059[3] (active)	
+[00:01:32]: Validating portal[10] <-> 4058301059[10] (disabled)	
+[00:01:32]: Validating portal[2] <-> 4058301059[2] (active)	
+[00:01:32]: Validating portal[5] <-> 4058301059[5] (disabled)	
+[00:01:32]: Validating portal[6] <-> 4058301059[6] (disabled)	
+[00:01:32]: Validating portal[8] <-> 4058301059[8] (active)	
+[00:01:32]: Validating portal[9] <-> 4058301059[9] (disabled)	
+[00:01:32]: Validating portal[oceanwhirlbigportal] <-> 4058301059[oceanwhirlbigportal] (active)	
+[00:01:32]: Validating portal[4] <-> 4058301059[4] (disabled)	
+[00:01:32]: Validating portal[7] <-> 4058301059[7] (active)	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = always to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option resettime = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option portalresurection = none to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = none to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:01:32]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:03:56]: [P2P] Session request for '76561199816867242'
+[00:03:59]: [P2P] Create session: 159.37.220.19|1 '76561199816867242'
+[00:03:59]: [P2P] Received from 159.37.220.19|1 '76561199816867242'
+[00:03:59]: [P2P] Sent to 159.37.220.19|1 '76561199816867242'
+[00:03:59]: New incoming connection 159.37.220.19|1 <1289440243740246770>
+[00:03:59]: Client connected from 159.37.220.19|1 <1289440243740246770>
+[00:03:59]: ValidateGameSessionToken GUID<1289440243740246770>
+[00:04:02]: Client authenticated: (KU_Mj6gSlLp) TYrhya
+[00:04:03]: [Steam] SendUserConnectAndAuthenticate for '76561199816867242'
+[00:04:03]: [Steam] Authenticated client '76561199816867242'
+[00:04:05]: There is no active event to validate against.
+[00:04:05]: [Shard] Read save location file for (KU_Mj6gSlLp)
+[00:04:46]: Resuming user: session/7E950750D7454640/A7IQQ6L75TBJ/0000000538
+[00:04:46]: [workshop-2189004162 (Insight)]:	listening for player validation	131890 - wendy	
+[00:04:46]: User ID	KU_Mj6gSlLp	assigned ownership to entity	131890 - wendy	
+[00:04:47]: [workshop-2189004162 (Insight)]:	Insight Replica (table: 26DE3910 ~ [131890 - wendy]) added for 131890 - wendy	
+[00:04:47]: [workshop-2189004162 (Insight)]:	Added Insight component for	131890 - wendy	
+[00:04:47]: Spawning player at: [Load] (150.01, -0.00, 381.40)	
+[00:04:47]: Enabling Spawn Protection for	131890 - wendy	
+[00:04:47]: Sim unpaused
+[00:04:47]: [workshop-2189004162 (Insight)]:	Kramped initialized player '131890 - wendy'	
+[00:04:47]: [workshop-2189004162 (Insight)]:	Master received shard initialization from:	4058301059	number	with world prefab:	cave	
+[00:04:47]: [workshop-2189004162 (Insight)]:	Setting SelectedCaveShard to	4058301059	
+[00:04:47]: [workshop-2189004162 (Insight)]:	ProcessConfiguration	131890 - wendy	
+[00:04:47]: [workshop-2189004162 (Insight)]:	Created player context for	131890 - wendy	
+[00:04:47]: [workshop-2189004162 (Insight)]:	weather.OnUpdate has been replaced by: ../mods/workshop-2039181790/postinit/components/weather.lua@25	
+[00:06:04]: Server Autopaused	
+[00:09:02]: [(KU_Mj6gSlLp) TYrhya] ReceiveRemoteExecute(require("debugcommands")d_resetskilltree()) @(153.30, 407.86)
+[00:09:02]: ValidateCharacterData failed for userid KU_Mj6gSlLp as wendy: Test must_have_one_of failed for skill wendy_sisturn_3.	
+[00:09:02]: ValidateCharacterData failed for userid KU_Mj6gSlLp as wendy: Test must_have_one_of failed for skill wendy_smallghost_3.	
+[00:09:02]: ValidateCharacterData failed for userid KU_Mj6gSlLp as wendy: Test must_have_one_of failed for skill wendy_potion_revive.	
+[00:09:02]: ValidateCharacterData failed for userid KU_Mj6gSlLp as wendy: Test must_have_one_of failed for skill wendy_smallghost_2.	
+[00:09:02]: ValidateCharacterData failed for userid KU_Mj6gSlLp as wendy: Test must_have_one_of failed for skill wendy_sisturn_2.	
+[00:09:04]: Server Unpaused	
+[00:09:06]: Server Autopaused	
+[00:09:07]: [(KU_Mj6gSlLp) TYrhya] ReceiveRemoteExecute(require("debugcommands")d_resetskilltree()) @(165.93, 406.72)
+[00:09:07]: Server Unpaused	
+[00:09:41]: Server Autopaused	
+[00:09:46]: Server Unpaused	
+[00:09:53]: Server Autopaused	
+[00:10:26]: [(KU_Mj6gSlLp) TYrhya] ReceiveRemoteExecute(require("debugcommands")d_resetskilltree()) @(167.03, 389.34)
+[00:10:26]: Server Unpaused	
+[00:10:28]: Server Autopaused	
+[00:10:30]: Server Unpaused	
+[00:10:46]: Server Autopaused	
+[00:11:08]: Server Unpaused	
+[00:13:02]: Available disk space for save files: 28811 MB
+[00:13:02]: Serializing user: session/7E950750D7454640/A7IQQ6L75TBJ/0000000539
+[00:13:02]: Serializing world: session/7E950750D7454640/0000000539
+[00:13:11]: Could not find anim [fly_back_loop] in bank [fruitbat]
+[00:13:11]: Could not find anim [fly_back_pst] in bank [fruitbat]
+[00:14:01]: CAN'T SPAWN RATS! They are on break!	
+[00:14:07]: 1	103854 - turf_forest	
+[00:14:23]: 1	113357 - chesspiece_moosegoose	
+[00:14:34]: 1	100692 - ratpoison	
+[00:14:52]: Could not find anim [fly_back_loop] in bank [fruitbat]
+[00:14:52]: Could not find anim [fly_back_loop] in bank [fruitbat]
+[00:14:53]: Could not find anim [fly_back_pst] in bank [fruitbat]
+[00:14:53]: Could not find anim [fly_back_pst] in bank [fruitbat]
+[00:15:12]: Could not find anim [fly_back_loop] in bank [fruitbat]
+[00:15:13]: Could not find anim [fly_back_pst] in bank [fruitbat]
+[00:15:36]: Could not find anim [glide] in bank [fruitbat]
+[00:16:03]: CAN'T SPAWN RATS! They are on break!	
+[00:16:11]: CAN'T SPAWN RATS! They are on break!	
+[00:16:14]: CAN'T SPAWN RATS! They are on break!	
+[00:16:23]: CAN'T SPAWN RATS! They are on break!	
+[00:16:32]: CAN'T SPAWN RATS! They are on break!	
+[00:16:34]: CAN'T SPAWN RATS! They are on break!	
+[00:16:35]: CAN'T SPAWN RATS! They are on break!	
+[00:16:45]: CAN'T SPAWN RATS! They are on break!	
+[00:17:25]: Server Autopaused	
+[00:17:26]: Server Unpaused	
+[00:17:27]: Server Autopaused	
+[00:17:31]: Server Unpaused	
+[00:17:31]: Server Autopaused	
+[00:17:32]: Server Unpaused	
+[00:17:41]: Server Autopaused	
+[00:17:43]: Server Unpaused	
+[00:17:44]: Server Autopaused	
+[00:17:53]: Server Unpaused	
+[00:17:54]: Server Autopaused	
+[00:17:55]: Server Unpaused	
+[00:18:04]: Server Autopaused	
+[00:18:04]: Server Unpaused	
+[00:18:04]: Server Autopaused	
+[00:18:05]: Server Unpaused	
+[00:18:06]: Server Autopaused	
+[00:18:15]: Server Unpaused	
+[00:18:16]: Server Autopaused	
+[00:18:17]: Server Unpaused	
+[00:18:53]: Server Autopaused	
+[00:18:53]: Server Unpaused	
+[00:19:36]: Server Autopaused	
+[00:19:41]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds

@@ -5952,3 +5952,95 @@ FIXME: Skill Tree for wolfgang is missing defaultfocus for one of the skills! Th
 [00:00:58]: [Shard] Sending secondary shard information to master...
 [00:01:01]: Received MasterInfoPacket row 0fb7bd3753ad146a4d58857e3cfcfea8 region ap-east-1
 [00:01:01]: Obtaining secondary shard IP from ap-east-1 lobby
+[00:01:32]: [Shard] secondary shard is now ready!
+[00:01:32]: World 1(Master) is now connected	
+[00:01:32]: Validating portal[7] <-> 1[7] (active)	
+[00:01:32]: Validating portal[2] <-> 1[2] (active)	
+[00:01:32]: Validating portal[oceanwhirlbigportal] <-> 1[oceanwhirlbigportal] (disabled)	
+[00:01:32]: Validating portal[10] <-> 1[10] (active)	
+[00:01:32]: Validating portal[8] <-> 1[8] (active)	
+[00:01:32]: Validating portal[5] <-> 1[5] (active)	
+[00:01:32]: Validating portal[3] <-> 1[3] (active)	
+[00:01:32]: Validating portal[9] <-> 1[9] (active)	
+[00:01:32]: Validating portal[6] <-> 1[6] (active)	
+[00:01:32]: Validating portal[4] <-> 1[4] (active)	
+[00:01:32]: Validating portal[1] <-> 1[1] (active)	
+[00:01:32]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:01:32]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:01:32]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
+[00:01:32]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:01:32]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying resettime = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying krampus = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying ghostsanitydrain = always from master shard.	
+[00:01:32]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[00:01:32]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying darkness = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying portalresurection = none from master shard.	
+[00:01:32]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying hunger = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
+[00:01:32]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:01:32]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:01:32]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
+[00:01:32]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:01:32]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying resettime = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying krampus = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying ghostsanitydrain = always from master shard.	
+[00:01:32]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[00:01:32]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying darkness = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying portalresurection = none from master shard.	
+[00:01:32]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying hunger = default from master shard.	
+[00:01:32]: [SyncWorldSettings] applying basicresource_regrowth = none from master shard.	
+[00:01:33]: [workshop-2189004162 (Insight)]:	Sending Shard Initialization	
+[00:01:33]: [Shard] secondary shard LUA is now ready!
+[00:01:33]: Sim paused
+[00:04:47]: Sim unpaused
+[00:04:47]: [workshop-2189004162 (Insight)]:	Shard (4058301059) got selected for cave data, aka Us.	
+[00:04:47]: [workshop-2189004162 (Insight)]:	Shard (1) got selected for forest data, not Us.	
+[00:06:04]: Server Autopaused	
+[00:09:04]: Server Unpaused	
+[00:09:06]: Server Autopaused	
+[00:09:08]: Server Unpaused	
+[00:09:41]: Server Autopaused	
+[00:09:46]: Server Unpaused	
+[00:09:53]: Server Autopaused	
+[00:10:26]: Server Unpaused	
+[00:10:28]: Server Autopaused	
+[00:10:30]: Server Unpaused	
+[00:10:46]: Server Autopaused	
+[00:11:08]: Server Unpaused	
+[00:13:02]: Available disk space for save files: 28811 MB
+[00:13:02]: Serializing world: session/0E67396AE66AFB6D/0000000539
+[00:13:02]: Truncating to snapshot #539...
+[00:13:02]:  - session/0E67396AE66AFB6D/0000000533
+[00:13:02]:    1 file(s) removed
+[00:14:04]: um_pyre_nettles.lua has auto-recovered from an invalid SetStage! Stage was: 0	
+[00:17:25]: Server Autopaused	
+[00:17:27]: Server Unpaused	
+[00:17:27]: Server Autopaused	
+[00:17:31]: Server Unpaused	
+[00:17:31]: Server Autopaused	
+[00:17:32]: Server Unpaused	
+[00:17:41]: Server Autopaused	
+[00:17:43]: Server Unpaused	
+[00:17:44]: Server Autopaused	
+[00:17:53]: Server Unpaused	
+[00:17:54]: Server Autopaused	
+[00:17:55]: Server Unpaused	
+[00:18:04]: Server Autopaused	
+[00:18:04]: Server Unpaused	
+[00:18:04]: Server Autopaused	
+[00:18:06]: Server Unpaused	
+[00:18:06]: Server Autopaused	
+[00:18:15]: Server Unpaused	
+[00:18:16]: Server Autopaused	
+[00:18:17]: Server Unpaused	
+[00:18:53]: Server Autopaused	
+[00:18:53]: Server Unpaused	
+[00:19:36]: Server Autopaused	
